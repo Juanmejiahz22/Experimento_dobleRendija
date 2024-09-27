@@ -1,1 +1,1 @@
-# Experimento_doble_rendija
+# Experimento_dobleRendija
