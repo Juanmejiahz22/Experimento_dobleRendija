@@ -22,3 +22,6 @@ En el experimento de la doble rendija, se observa un fenómeno sorprendente en e
 Cuando un haz de luz láser pasa a través de las rendijas, los fotones tienen la misma probabilidad de pasar por cualquiera de ellas, pero no pueden cruzarlas simultáneamente. Al atravesar una de las rendijas, se esperaría ver dos rayos en la pared. Sin embargo, lo que aparece son múltiples líneas, con un mayor brillo en el centro. La física cuántica explica esto sugiriendo que un factor influye en el electrón, alterando su trayectoria, lo que implica que cada electrón puede tener una historia diferente. Esta teoría también introduce la idea de un multiverso, donde cada posible estado del sistema tiene su propia historia y estas historias interactúan entre sí.
 
 ![Laser](https://github.com/Juanmejiahz22/Experimento_dobleRendija/blob/main/Laser.jpg)
+
+## Simulación 
+![diagrama](https://github.com/Juanmejiahz22/Experimento_dobleRendija/blob/main/Laser.jpg)
