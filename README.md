@@ -24,4 +24,6 @@ Cuando un haz de luz láser pasa a través de las rendijas, los fotones tienen l
 ![Laser](https://github.com/Juanmejiahz22/Experimento_dobleRendija/blob/main/Laser.jpg)
 
 ## Simulación 
-![diagrama](https://github.com/Juanmejiahz22/Experimento_dobleRendija/blob/main/Laser.jpg)
+![diagrama]([https://github.com/Juanmejiahz22/Experimento_dobleRendija/blob/main/Laser.jpg](https://github.com/Juanmejiahz22/Experimento_dobleRendija/blob/main/imagen_2024-09-26_225218149.png))
+
+Codificación de la simulación: 
