@@ -1,6 +1,6 @@
 # Experimento_dobleRendija
 El experimento de la doble rendija es un experimento emblemático de la física cuántica, utilizado para mostrar la naturaleza dual de las partículas, como los electrones o fotones. En este experimento, se coloca una pantalla frente a una fuente de partículas. Entre la fuente y la pantalla, hay una barrera con una o dos ranuras. Cuando hay solo una rendija, las partículas la atraviesan y crean un patrón de dispersión en la pantalla posterior a la rendija.
-## Integrantes
+### Integrantes
 Juan José Mejía Celis  
 Allan Contreras
 Juan Sebastian Beltran
